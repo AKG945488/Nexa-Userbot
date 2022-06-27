@@ -17,7 +17,7 @@ Deployment is easy! Just [read the docs](https://nexaub.itz-fork.xyz/docs/get-st
 ### With Heroku
 
 - Fork the repo and copy your forked repo link
-- Now go to `https://heroku.com/deploy?template=<YOUR_FORKED_LINK_HERE>` (Replace `YOUR_FORKED_LINK_HERE` with copied repo link)
+- Now go to `https://heroku.com/deploy?template=https://github.com/AKG945488/Nexa-Userbot` (Replace `YOUR_FORKED_LINK_HERE` with copied repo link)
 - Fill the config vars and deploy!
 
 
